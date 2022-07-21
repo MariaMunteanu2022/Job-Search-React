@@ -1,0 +1,22 @@
+.my-4 {
+  background-color: white;
+  padding: 4rem;
+}
+
+.mb-4 {
+  background-color: chartreuse;
+  padding: 0.5rem;
+  color: rgb(238, 42, 42);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.align-items-end {
+  color: black;
+}
+
+.apply-section {
+  background-color: rgb(240, 240, 240);
+  display: flex;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
